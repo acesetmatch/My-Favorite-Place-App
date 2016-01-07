@@ -12,6 +12,7 @@
 		196EDB4D1C3C71F80025BD7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 196EDB4B1C3C71F80025BD7C /* Main.storyboard */; };
 		196EDB4F1C3C71F80025BD7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196EDB4E1C3C71F80025BD7C /* Assets.xcassets */; };
 		196EDB521C3C71F80025BD7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 196EDB501C3C71F80025BD7C /* LaunchScreen.storyboard */; };
+		196EDB5A1C3C7C5B0025BD7C /* DetailVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196EDB591C3C7C5B0025BD7C /* DetailVCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		196EDB4E1C3C71F80025BD7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		196EDB511C3C71F80025BD7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		196EDB531C3C71F80025BD7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		196EDB591C3C7C5B0025BD7C /* DetailVCViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				196EDB4E1C3C71F80025BD7C /* Assets.xcassets */,
 				196EDB501C3C71F80025BD7C /* LaunchScreen.storyboard */,
 				196EDB531C3C71F80025BD7C /* Info.plist */,
+				196EDB591C3C7C5B0025BD7C /* DetailVCViewController.swift */,
 			);
 			path = "favorite-place";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				196EDB4A1C3C71F80025BD7C /* ViewController.swift in Sources */,
 				196EDB481C3C71F80025BD7C /* AppDelegate.swift in Sources */,
+				196EDB5A1C3C7C5B0025BD7C /* DetailVCViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
